@@ -1,5 +1,44 @@
-### Hi there 👋
+### Hi I'm Luana <img src="https://lh3.googleusercontent.com/proxy/2rJwMzS0Ct_cSAtdXwikOItPK9z-6s3uBYBfMt58jZNAPaVDEFwcGTL3DddRcS1UBhE7X0baPV44WCfaqAfYaLIe-R_di7vYmwkfR6NYVIxu6Pg8lK0fJ-7uxT1wBMIuzgZZQ-11SgK1KJIixCVcF2xcfoMf-yMAloTVeQ" width="30" height="30" />
+---
 
+*Full Stack developer @ [iFood][ifood-url]*  
+*Volunteer developer @ [TODXS][todxs-url]*
+
+[![Linkedin: luanapimentel][linkedin-badge]][linkedin-url]
+[![GitHub luanapp][github-shield]][github-url]
+
+```javascript
+// A little bit of Luana
+const luana = {
+  pronouns: ['she', 'her', 'ela', 'dela'],
+  code: ['javascript', 'java'],
+  ngos: ['TODXS'],
+  sports: ['capoeira', 'basketball']
+};
+```
+
+```java
+// A little bit of Luana's ideals
+interface Society {
+  void empowerment(List<Person> developers);
+}
+
+public class Tecnology implements {
+  public void empowerment(List<Person> developers) {
+    developers.engage(Comunity.get(MARGINALIZED));
+  }
+}
+```  
+
+#### *Be proud of who you are, always!*  <img src="https://static.skaip.org/img/emoticons/180x180/f6fcff/flaggaypride.gif" width="30" height="30" />
+
+
+[ifood-url]: https://www.ifood.com.br
+[todxs-url]: https://www.todxs.org
+[linkedin-badge]: https://img.shields.io/badge/-luanapimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanapimentel
+[linkedin-url]: https://www.linkedin.com/in/luanapimentel
+[github-shield]: https://img.shields.io/github/followers/luanapp?label=follow&style=social
+[github-url]: https://github.com/luanapp
 <!--
 **luanapp/luanapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
