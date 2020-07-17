@@ -23,7 +23,7 @@ interface Society {
   void empowerment(List<Person> developers);
 }
 
-public class Tecnology implements {
+public class Tecnology implements Society {
   public void empowerment(List<Person> developers) {
     developers.engage(Comunity.get(MARGINALIZED));
   }
