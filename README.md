@@ -1,4 +1,7 @@
-### Hi I'm Luana <img src="https://lh3.googleusercontent.com/proxy/2rJwMzS0Ct_cSAtdXwikOItPK9z-6s3uBYBfMt58jZNAPaVDEFwcGTL3DddRcS1UBhE7X0baPV44WCfaqAfYaLIe-R_di7vYmwkfR6NYVIxu6Pg8lK0fJ-7uxT1wBMIuzgZZQ-11SgK1KJIixCVcF2xcfoMf-yMAloTVeQ" width="30" height="30" />
+<p align="center">
+  <img src="lu.png" />
+</p>
+
 ---
 
 *Full Stack developer @ [iFood][ifood-url]*  
