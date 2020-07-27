@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lu.png" />
+  <img src="https://raw.githubusercontent.com/luanapp/luanapp/master/lu.png" />
 </p>
 
 ---
