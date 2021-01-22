@@ -4,7 +4,7 @@
 
 ---
 
-*Full Stack developer @ [iFood][ifood-url]*  
+*Full Stack developer @ [OLX Brasil][olx-url]*  
 *Volunteer developer @ [TODXS][todxs-url]*
 
 [![Linkedin: luanapimentel][linkedin-badge]][linkedin-url]
@@ -36,7 +36,7 @@ public class Tecnology implements Society {
 #### *Be proud of who you are, always!*  <img src="https://static.skaip.org/img/emoticons/180x180/f6fcff/flaggaypride.gif" width="30" height="30" />
 
 
-[ifood-url]: https://www.ifood.com.br
+[olx-url]: https://www.olx.com.br
 [todxs-url]: https://www.todxs.org
 [linkedin-badge]: https://img.shields.io/badge/-luanapimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanapimentel
 [linkedin-url]: https://www.linkedin.com/in/luanapimentel
