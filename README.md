@@ -14,7 +14,7 @@
 // A little bit of Luana
 const luana = {
   pronouns: ['she', 'her', 'ela', 'dela'],
-  code: ['javascript', 'java'],
+  code: ['javascript', 'java', 'golang'],
   ngos: ['TODXS'],
   sports: ['capoeira', 'basketball']
 };
