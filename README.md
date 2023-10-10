@@ -4,8 +4,7 @@
 
 ---
 
-*Full Stack developer @ [OLX Brasil][olx-url]*  
-*Volunteer developer @ [TODXS][todxs-url]*
+*Technical Leader @ [Mercado Livre][meli-url]*  
 
 [![Linkedin: luanapimentel][linkedin-badge]][linkedin-url]
 [![GitHub luanapp][github-shield]][github-url]
@@ -36,8 +35,7 @@ public class Tecnology implements Society {
 #### *Be proud of who you are, always!*  <img src="https://static.skaip.org/img/emoticons/180x180/f6fcff/flaggaypride.gif" width="30" height="30" />
 
 
-[olx-url]: https://www.olx.com.br
-[todxs-url]: https://www.todxs.org
+[meli-url]: https://www.mercadolivre.com.br
 [linkedin-badge]: https://img.shields.io/badge/-luanapimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanapimentel
 [linkedin-url]: https://www.linkedin.com/in/luanapimentel
 [github-shield]: https://img.shields.io/github/followers/luanapp?label=follow&style=social
